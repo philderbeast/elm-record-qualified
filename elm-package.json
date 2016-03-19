@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "Qualified Record Update",
+    "repository": "https://github.com/_/elm-qualified-record-update.git",
+    "license": "None",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "3.0.0 <= v < 4.0.0"
+    },
+    "elm-version": "0.16.0 <= v < 0.17.0"
+}
